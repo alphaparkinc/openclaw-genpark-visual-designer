@@ -1,3 +1,3 @@
-# genpark-claude-design
+# genpark-visual-designer
 
 Auto-distilled OpenClaw skill.
